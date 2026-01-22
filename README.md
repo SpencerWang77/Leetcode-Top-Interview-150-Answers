@@ -1,6 +1,7 @@
 # Leetcode-Top-Interview-150-Answers
-This repository includes my answers to Leetcode's problem set "Top Interview 150", which I did to enhance tech company interview ability.
+This repository contains my answers to Leetcode's "Top Interview 150" problem set
 
+Ace your interview prep🔥🔥🔥
 
 Answers handwritten by myself. All of them are "Accepted".
 
